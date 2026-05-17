@@ -1,6 +1,7 @@
 # Gojek App Review Sentiment Analysis
 
 This project aims to analyze sentiment from user reviews of the Gojek application collected from Google Play Store using Machine Learning techniques.
+This project was created to fulfill the [Deep Learning course submission](https://www.dicoding.com/academies/185-belajar-fundamental-deep-learning) from the Dicoding program.
 
 ## Project Overview
 
