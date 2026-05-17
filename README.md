@@ -1,45 +1,42 @@
-\# Gojek App Review Sentiment Analysis
-This project aims to analyze user sentiment from Gojek application reviews collected from Google Play Store using Machine Learning techniques.
+# Gojek App Review Sentiment Analysis
+This project aims to analyze sentiment from user reviews of the Gojek application collected from Google Play Store using Machine Learning techniques.
 
-\## Project Overview
-The sentiment classification is used to determine whether user reviews contain positive, negative, or neutral sentiment. This project includes data scraping, preprocessing, model training, and evaluation.
+## Project Overview
+The model is used to classify user reviews into positive, negative, or neutral sentiment. The project includes data scraping, preprocessing, model training, and evaluation.
 
-\## Dataset Source
+## Dataset Source
 The dataset was collected from Google Play Store reviews of the Gojek application using Python scraping tools.
 
-\## Project Structure
-```bash
-data/           -> dataset files
-notebooks/      -> Jupyter Notebook experiments
-src/            -> Python scripts
-outputs/        -> visualizations and evaluation results
-```
+## Project Structure
+data/ → dataset files
+notebooks/ → notebooks for model training and experimentation
+src/ → python scripts
+outputs/ → model outputs and visualizations
 
-\## Technologies Used
-\- Python
-\- Pandas
-\- NumPy
-\- Scikit-Learn
-\- TensorFlow
-\- Matplotlib
-\- Sastrawi
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+- TensorFlow
+- Matplotlib
+- Sastrawi
 
-\## Workflow
-1\. Data Scraping
-2\. Text Cleaning
-3\. Text Preprocessing
-4\. Feature Extraction
-5\. Model Training
-6\. Model Evaluation
+## Workflow
+1. Data Scraping
+2. Text Cleaning
+3. Text Preprocessing
+4. Feature Extraction
+5. Model Training
+6. Model Evaluation
 
-\## Files
-\- `sentiment\_analysis.ipynb` → main notebook
-\- `scraping\_dataset.py` → scraping script
-\- `sentiment\_dataset.csv` → dataset
-\- `requirements.txt` → required libraries
+## Files
+- sentiment_analysis.ipynb → main notebook
+- scraping_dataset.py → dataset scraping script
+- sentiment_dataset.csv → dataset
+- requirements.txt → required libraries
 
-\## Author
-Juliani Leony Putri Melati Manalu  
-Informatics Engineering Student  
-Interested in AI Engineering \& Machine Learning
-
+## Author
+Juliani Leony Putri Melati Manalu
+Informatics Engineering Student
+Interested in AI Engineering and Machine Learning
